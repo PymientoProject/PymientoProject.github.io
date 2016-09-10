@@ -92,14 +92,14 @@ h1 {
 	font-size: 56pt;
 	color:#000;
 	line-height: 66px;
-	align: center
+	text-align: center
 }
 
 h2 {
 	font-size: 30pt;
 	color:#c00;
 	line-height: 48px;
-	align: center
+	text-align: center
 	float: left;
 	margin: 20px 5% 10px 5%;
 
