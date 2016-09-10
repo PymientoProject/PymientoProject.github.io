@@ -45,7 +45,6 @@ El concepto central que conforma Pymiento tiene que ver con la creación y desar
 En **2013** surge en **Almería** un **grupo** de inquietos que comenzaron a juntarse con la intención **compartir conocimientos, aprender los unos de los otros entorno a la tecnología** y lo llamamos **[Hacklab Almería](hacklabalmeria.net)**. Empezamos montando [pequeños saraos](http://hacklabalmeria.net/actividades/) mensuales para reunirnos, y luego [saraos más grandes](http://elhackaton.com/2015/) para atraer a más gente. Bajo la filosofía del conocimiento libre, y el Open Source Hardware, hemos creado una comunidad de comunidades en nuestra ciudad. Somos un paraguas donde todo el talento que more por estas tierras tenga un cobijo.
 
 En HackLab Almería **somos un colectivo de experimentación tecnológica, social y creativa.**
-
 ![HackLab_Almería](hacklab.png)(full)
 
 Pasa por nuestro [Foro](https://foro.hacklabalmeria.net/), o háblanos por [Telegram](https://telegram.me/joinchat/AFGSKT5buk53IvM55CUsSQ), somos gente de bien y tenemos ganas de conocerte.
