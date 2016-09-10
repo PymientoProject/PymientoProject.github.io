@@ -1,0 +1,239 @@
+{
+	"pages":[
+		{
+			"title":"About",
+			"introduction":"",
+			"published": true,
+			"image":"",
+			"url":"about",
+			"pages":[]
+		},
+		{
+			"title":"Works",
+			"introduction":"",
+			"published": true,
+			"image":"",
+			"url":"works",
+			"pages":[
+				{
+					"title":"3D-Halsman",
+					"introduction":"Instantáneas en 3D instantáneo",
+					"published": true,
+					"link": true,
+					"image":"works/3dhalsman.gif",
+					"url":"works/3D-Halsman",
+					"pages":[]
+				},
+				{
+					"title":"genKoan",
+					"introduction":"El sensei del futuro",
+					"published": true,
+					"link": true,
+					"image":"works/genkoan.png",
+					"url":"works/genKoan",
+					"pages":[]
+				},
+				{
+					"title":"genHive",
+					"introduction":"La colmena generativa",
+					"published": true,
+					"link": true,
+					"image":"works/genhive.png",
+					"url":"works/genHive",
+					"pages":[]
+				},
+				{
+					"title":"dancingChair",
+					"introduction":"Baila mejor que muchos que conozcas",
+					"published": true,
+					"link": true,
+					"image":"works/dancingchair.jpg",
+					"url":"works/dancingChair",
+					"pages":[]
+				},
+				{
+					"title":"photonTurntable",
+					"introduction":"Puente de luz al sonido",
+					"published": true,
+					"link": true,
+					"image":"works/photon.jpg",
+					"url":"works/photonTurntable",
+					"pages":[]
+				},
+				{
+					"title":"genAgario",
+					"introduction":"Ecosistema generativo",
+					"published": true,
+					"link": true,
+					"image":"works/genagario.jpg",
+					"url":"works/genAgario",
+					"pages":[]
+				},
+				{
+					"title":"empty",
+					"introduction":"intro",
+					"published": false,
+					"link": true,
+					"image":"works/imagen.jpg",
+					"url":"works/url",
+					"pages":[]
+				}
+
+			]
+		},
+		{
+			"title":"People",
+			"introduction":"",
+			"published": true,
+			"image":"",
+			"url":"people",
+			"pages":[
+				{	
+					"id":"adolfo",
+					"title":"Adolfo Rosillo Herrera",
+					"introduction":"El SWAT de la filosofía poética",
+					"published": true,
+					"link": false,
+					"image":"people/adolfo.jpg",
+					"url":"people/adolfo-rosillo-herrera",
+					"pages":[]
+				},
+				{	"id":"gonnzo",
+					"title":"Gonzalo Moyano",
+					"introduction":"Multipotencialista & maker",
+					"published": true,
+					"link": true,
+					"image":"people/gonzalo.jpg",
+					"url":"people/gonzalo-moyano",
+					"pages":[]
+				},
+				{
+					"title":"Cristo Contreras Rubio",
+					"introduction":"Matrix la creó él con Assembler",
+					"published": true,
+					"link": false,
+					"image":"people/cristo.jpg",
+					"url":"people/cristo-contreras-rubio",
+					"pages":[]
+				},
+				{
+					"title":"Josema Martínez",
+					"introduction":"Ingeniería aplicada al arte",
+					"published": true,
+					"link": false,
+					"image":"people/josema.jpg",
+					"url":"people/josema-martinez",
+					"pages":[]
+				},
+				{
+					"title":"Favio Gutiérrez",
+					"introduction":"Diseño y discreción",
+					"published": true,
+					"link": false,
+					"image":"people/favio.jpg",
+					"url":"people/favio-gutierrez",
+					"pages":[]
+				},
+				{
+					"title":"Delia Gálvez Moreno",
+					"introduction":"Maker interiorista",
+					"published": true,
+					"link": false,
+					"image":"people/delia.jpg",
+					"url":"people/delia-galvez-moreno",
+					"pages":[]
+				},
+				{
+					"title":"Francisco Acién",
+					"introduction":"Amante de las tecnologías libres",
+					"published": true,
+					"link": false,
+					"image":"people/fran.jpg",
+					"url":"people/fracisco-acien",
+					"pages":[]
+				},
+				{
+					"title":"Almudena Fernández",
+					"introduction":"Ingeniería y organización",
+					"published": true,
+					"link": false,
+					"image":"people/almudena.jpg",
+					"url":"people/almudena-fernandez",
+					"pages":[]
+				},
+				{
+					"title":"Sol Ravassa",
+					"introduction":"Directora-Editora en Editorial Soldesol",
+					"published": true,
+					"link": false,
+					"image":"people/sol.jpg",
+					"url":"people/sol-ravassa",
+					"pages":[]
+				},
+				{
+					"title":"Aitor Álvarez",
+					"introduction":"El ingeniero filósofo",
+					"published": true,
+					"link": false,
+					"image":"people/aitor.jpg",
+					"url":"people/aitor-alvarez",
+					"pages":[]
+				},
+				{
+					"title":"Olga Fernández",
+					"introduction":"Design thinking y organización",
+					"published": true,
+					"link": false,
+					"image":"people/olga.jpg",
+					"url":"people/olga-fernandez",
+					"pages":[]
+				},
+				{
+					"title":"Guille Fuertes",
+					"introduction":"El físico periodista",
+					"published": true,
+					"link": false,
+					"image":"people/guille.jpg",
+					"url":"people/guiller-fuertes",
+					"pages":[]
+				},
+				{
+					"title":"Hugo Rosillo",
+					"introduction":"Ingeniería industrial y otras cosas",
+					"published": true,
+					"link": false,
+					"image":"people/hugo.jpg",
+					"url":"people/hugo-rosillo",
+					"pages":[]
+				},
+				{
+					"title":"Remedios Fernandez",
+					"introduction":"Formadora de Tecnologías Creativas",
+					"published": true,
+					"link": false,
+					"image":"people/reme.jpg",
+					"url":"people/remedios-fernandez",
+					"pages":[]
+				},
+				{
+					"title":"nombre",
+					"introduction":"intro",
+					"published": false,
+					"link": false,
+					"image":"people/imagen.jpg",
+					"url":"people/url",
+					"pages":[]
+				}
+
+			]
+		},
+		{
+			"title":"AGAP",
+			"introduction":"",
+			"published": true,
+			"image":"",
+			"url":"AGAP",
+			"pages":[]
+		}
+	]
+}
