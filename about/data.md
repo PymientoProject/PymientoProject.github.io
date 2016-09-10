@@ -2,9 +2,9 @@
 
 ## Esta es una historia inacabada. Se lee desde abajo hacia arriba. Lo primero que veas es el presente, y hacia abajo, un paseo por el historial completo del proceso creativo.
 
-### Deadline // PyCon y PyConES
+### Deadline // Sobre PyCon y PyConES
 
-PyCon es la mayor conferencia anual de la comunidad de usuarios y desarrolladores del lenguaje de programación de código abierto Python. A nivel nacional, PyConES se ha venido celebrando en Madrid, Zaragoza y Valencia.
+[PyCon](http://www.pycon.org/) es la mayor conferencia anual de la comunidad de usuarios y desarrolladores del lenguaje de programación de código abierto Python. A nivel nacional, PyConES se ha venido celebrando en Madrid, Zaragoza y Valencia.
 
 ![Pycones 2016 Almería](pycones.png)(full)
 
@@ -21,24 +21,22 @@ La exposición se inaugurará el día 8 de octubre a las 20hs. en la sala Arroba
 Fuente imágen // [www.filmingalmeria.es](http://www.filmingalmeria.es)
 
 
-
+<!--
 ### El concepto // Python y el Arte Generativo
 
 De forma resumida, Python es un lenguaje de programación muy potente y fácil de usar. Por su simplicidad, está siendo cada vez más utilizado por la comunidad artística en la creación de arte generativo.
 
 ![Generative Art](genart.jpg)(full)
 Fuente imágenes: [Robert Hruska](https://instagy.com/user/rbrthrsk) // [fb.com/rbrthrsk](https://www.facebook.com/rbrthrsk)
+-->
 
-
-#### ¿Arte generativo?
+#### Python como herramienta // ¿Proccesing?¿Arte generativo?
 
 Ya sea una obra gráfica, audiovisual o mecánica, el arte generativo consiste en que al menos una parte de la obra se genere a través de un algoritmo informático.
 
-#### El qué. Punto de partida.
+### Punto de partida // Los principios
 
-El concepto central que conforma Pymiento tiene que ver con la creación y desarrollo de obras generativas, utilizando Python como lenguaje principal.
-
-
+Entre los saraos grandes que hemos venido organizando, este año tenemos el orgullo de decir que somos la sede del [congreso nacional de Python](http://2016.es.pycon.org/es/). Teniendo este evento como objetivo, un grupo de 3 inquietos creamos una rama de Hacklab Almería a parte y la llamamos Pymiento ¿Nuestra pretensión? Crear un grupo de experimentación con índole artística, que teniendo Python como hilo conductor, aborde el congreso con un punto de vista diferente.
 
 ### Antecedentes // la era del Pre-Pymiento
 
