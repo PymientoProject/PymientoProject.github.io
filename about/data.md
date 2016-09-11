@@ -29,7 +29,7 @@ Todo esto no sería posible sin el grupo humano que hay detrás. Empezamos siend
 
 ![Equipo](equipo.jpg)(full)
 
-#### Python como herramienta // ¿Mundo Virtual (SW)? ¿Mundo Físico (HW)?
+### Python como herramienta // ¿Mundo Virtual (SW)? ¿Mundo Físico (HW)?
 
 
 [Python](https://www.python.org/) es uno los lenguajes de programación mas *sui generis* que existen. **Basa su potencia en el minimalismo y la usabilidad**, [estos son sus principios](https://www.python.org/dev/peps/pep-0020/). Se postula como de una de las mejores elecciones para aprender a programar ¿Que podemos hacer nosotros? Entre la comunidad artística cada vez es más frecuente su uso, pero es un terreno por arar todavía. Empezamos a dar nuestros primeros pasos con el software [Proccesing en su versión Pythonista](http://py.processing.org/). Un mundo nuevo se abría ante nuestros ojos, **Arte Generativo**. Con pocas líneas de código podíamos pintar nuestras pantallas con cuadros con los que nunca hubieramos soñado.
