@@ -91,11 +91,20 @@
 				{
 					"id":"adolfo",
 					"title":"Adolfo Rosillo Herrera",
-					"introduction":"El SWAT de la filosofía poética",
+					"introduction":"Desastroso productivo",
 					"published": true,
 					"link": false,
 					"image":"people/adolfo.jpg",
 					"url":"people/adolfo-rosillo-herrera",
+					"pages":[]
+				},
+				{
+					"title":"Cristóbal Contreras Rubio",
+					"introduction":"Ecléptico por vocación, flamer por vocación",
+					"published": true,
+					"link": false,
+					"image":"people/cristo.jpg",
+					"url":"people/cristo-contreras-rubio",
 					"pages":[]
 				},
 				{	"id":"gonnzo",
@@ -105,15 +114,6 @@
 					"link": true,
 					"image":"people/gonzalo.jpg",
 					"url":"people/gonzalo-moyano",
-					"pages":[]
-				},
-				{
-					"title":"Cristo Contreras Rubio",
-					"introduction":"Matrix la creó él con Assembler",
-					"published": true,
-					"link": false,
-					"image":"people/cristo.jpg",
-					"url":"people/cristo-contreras-rubio",
 					"pages":[]
 				},
 				{
@@ -145,7 +145,7 @@
 				},
 				{
 					"title":"Almudena Fernández",
-					"introduction":"Ingeniería y organización",
+					"introduction":"Creatividad por bandera",
 					"published": true,
 					"link": false,
 					"image":"people/almudena.jpg",
@@ -190,13 +190,40 @@
 				},
 				{
 					"title":"Hugo Rosillo",
-					"introduction":"Ingeniería industrial y otras cosas",
+					"introduction":"Amante de la casquería mecánica",
 					"published": true,
 					"link": false,
 					"image":"people/hugo.jpg",
 					"url":"people/hugo-rosillo",
 					"pages":[]
 				},
+				{
+					"title":"Bill Muslos",
+					"introduction":"El movimiento de la fotografía",
+					"published": false,
+					"link": false,
+					"image":"people/",
+					"url":"people/bill-muslos",
+					"pages":[]
+				},
+				{
+					"title":"Ana Mora Maldonado",
+					"introduction":"Inquieta por definición",
+					"published": false,
+					"link": false,
+					"image":"people/",
+					"url":"people/ana-mora",
+					"pages":[]
+				},
+				{
+					"title":"Cristina Góngora",
+					"introduction":"Personas y manualidades",
+					"published": false,
+					"link": false,
+					"image":"people/imagen.jpg",
+					"url":"people/cris-gongora",
+					"pages":[]
+				}
 				{
 					"title":"Favio Gutiérrez",
 					"introduction":"Diseño y discreción",
@@ -209,7 +236,7 @@
 				{
 					"title":"Sol Ravassa",
 					"introduction":"Directora-Editora en Editorial Soldesol",
-					"published": true,
+					"published": false,
 					"link": false,
 					"image":"people/sol.jpg",
 					"url":"people/sol-ravassa",
