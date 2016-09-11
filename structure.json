@@ -88,8 +88,7 @@
 			"image":"",
 			"url":"people",
 			"pages":[
-				{
-					"id":"adolfo",
+				{	"id":"adolfo",
 					"title":"Adolfo Rosillo Herrera",
 					"introduction":"Desastroso productivo",
 					"published": true,
@@ -98,7 +97,7 @@
 					"url":"people/adolfo-rosillo-herrera",
 					"pages":[]
 				},
-				{
+				{ "id":"crisconru",
 					"title":"Cristóbal Contreras Rubio",
 					"introduction":"Ecléptico por vocación, flamer por vocación",
 					"published": true,
@@ -116,7 +115,7 @@
 					"url":"people/gonzalo-moyano",
 					"pages":[]
 				},
-				{
+				{ "id":"josemar",
 					"title":"Josema Martínez",
 					"introduction":"Ingeniería aplicada al arte",
 					"published": true,
@@ -125,7 +124,7 @@
 					"url":"people/josema-martinez",
 					"pages":[]
 				},
-				{
+				{ "id":"acien",
 					"title":"Francisco Acién",
 					"introduction":"Amante de las tecnologías libres",
 					"published": true,
@@ -134,7 +133,7 @@
 					"url":"people/fracisco-acien",
 					"pages":[]
 				},
-				{
+				{ "id":"delia",
 					"title":"Delia Gálvez Moreno",
 					"introduction":"Maker interiorista",
 					"published": true,
@@ -143,7 +142,7 @@
 					"url":"people/delia-galvez-moreno",
 					"pages":[]
 				},
-				{
+				{ "id":"almu",
 					"title":"Almudena Fernández",
 					"introduction":"Creatividad por bandera",
 					"published": true,
@@ -152,7 +151,7 @@
 					"url":"people/almudena-fernandez",
 					"pages":[]
 				},
-				{
+				{ "id":"aitor",
 					"title":"Aitor Álvarez",
 					"introduction":"El ingeniero filósofo",
 					"published": true,
@@ -161,7 +160,7 @@
 					"url":"people/aitor-alvarez",
 					"pages":[]
 				},
-				{
+				{ "id":"olga",
 					"title":"Olga Fernández",
 					"introduction":"Design thinking y organización",
 					"published": true,
@@ -170,7 +169,7 @@
 					"url":"people/olga-fernandez",
 					"pages":[]
 				},
-				{
+				{ "id":"guille",
 					"title":"Guille Fuertes",
 					"introduction":"El físico periodista",
 					"published": true,
@@ -179,7 +178,7 @@
 					"url":"people/guiller-fuertes",
 					"pages":[]
 				},
-				{
+				{ "id":"reme",
 					"title":"Remedios Fernandez",
 					"introduction":"Formadora de Tecnologías Creativas",
 					"published": true,
@@ -188,7 +187,7 @@
 					"url":"people/remedios-fernandez",
 					"pages":[]
 				},
-				{
+				{ "id":"hugo",
 					"title":"Hugo Rosillo",
 					"introduction":"Amante de la casquería mecánica",
 					"published": true,
@@ -197,25 +196,7 @@
 					"url":"people/hugo-rosillo",
 					"pages":[]
 				},
-				{
-					"title":"Bill Muslos",
-					"introduction":"El movimiento de la fotografía",
-					"published": false,
-					"link": false,
-					"image":"people/imagen.jpg",
-					"url":"people/url",
-					"pages":[]
-				},
-				{
-					"title":"Ana Mora Maldonado",
-					"introduction":"Inquieta por definición",
-					"published": false,
-					"link": false,
-					"image":"people/imagen.jpg",
-					"url":"people/url",
-					"pages":[]
-				},
-				{
+				{ "id":"cris",
 					"title":"Cristina Góngora",
 					"introduction":"Personas y manualidades",
 					"published": false,
@@ -224,7 +205,25 @@
 					"url":"people/url",
 					"pages":[]
 				},
-				{
+				{ "id":"bill",
+					"title":"Bill Muslos",
+					"introduction":"El movimiento de la fotografía",
+					"published": false,
+					"link": false,
+					"image":"people/imagen.jpg",
+					"url":"people/url",
+					"pages":[]
+				},
+				{ "id":"ana",
+					"title":"Ana Mora Maldonado",
+					"introduction":"Inquieta por definición",
+					"published": false,
+					"link": false,
+					"image":"people/imagen.jpg",
+					"url":"people/url",
+					"pages":[]
+				},
+				{ "id":"favio",
 					"title":"Favio Gutiérrez",
 					"introduction":"Diseño y discreción",
 					"published": true,
@@ -233,7 +232,7 @@
 					"url":"people/favio-gutierrez",
 					"pages":[]
 				},
-				{
+				{ "id":"sol",
 					"title":"Sol Ravassa",
 					"introduction":"Directora-Editora en Editorial Soldesol",
 					"published": false,
@@ -242,7 +241,7 @@
 					"url":"people/sol-ravassa",
 					"pages":[]
 				},
-				{
+				{ "id":"id",
 					"title":"nombre",
 					"introduction":"intro",
 					"published": false,
