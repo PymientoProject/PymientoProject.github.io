@@ -3,13 +3,13 @@
 ## Multipotencialista & creative maker
 
 Comencé a programar con una Texas Instrument TI-99/4A cuando tenía 8 años, así que se podría decir que llevo casi toda mi vida programando!
- 
+
 
 Un RMMBR de la TI-99/4A //
 ![Texas Instrument TI-99/4A](ti-994a.jpg)
 Texas Instruments TI-99 TV Commercial - "This is the One!" - Featuring Bill Cosby //
 [www.youtube.com/watch?v=DlU4HTefxmc](https://www.youtube.com/watch?v=DlU4HTefxmc)
- 
+
 
 Desde que apareció Internet por casa no he hecho otra cosa más que dedicarme al desarrollo web. Colaterlamente he aprendido cuestiones de diseño gráfico, imagen corporativa, contenidos digitales, fotografía, lenguaje audiovisual, edición de vídeo, modelado en 3D, etc.
 
@@ -24,7 +24,7 @@ Junto con mi equipo, ganamos el primer premio de esta maratón creativa basándo
 
 Con la llegada de los smartphones, me surgió la idea de hacer una app para conectar su móvil con el mío, así cuando no me atendiese ni al teléfono fijo ni al móvil, simplemente dándole a un botón de esta app podría escuchar o ver qué sucedía alrededor de su móvil, saber si es que estaba escuchando música, si había silencio, o conectar con su GPS para saber dónde estaba, conseguir una pista que me indicara si se trataba de una situación de riesgo o no.
 
-El proyecto que presentamos, Ping Health Care Beacon, planteaba crear un ecosistema de dispositivos que pudiesen monitorizar la actividad y los signos vitales de estas personas dependientes. Utilizar los dispositivos existentes en el mercado, smartphones y tablets, así como producir una serie de dispositivos específicos que optimicen dicha función de monitoreo. 
+El proyecto que presentamos, Ping Health Care Beacon, planteaba crear un ecosistema de dispositivos que pudiesen monitorizar la actividad y los signos vitales de estas personas dependientes. Utilizar los dispositivos existentes en el mercado, smartphones y tablets, así como producir una serie de dispositivos específicos que optimicen dicha función de monitoreo.
 
 ![Resumen Hackaton 2015](hackaton2.jpg)
 Más info en: [elhackaton.com/2015/](http://elhackaton.com/2015/)
@@ -45,6 +45,3 @@ Diseño y creación de un lienzo en madera para una performance de Street Art.
 Más info en mi blog: [nubak.com/blog/plaka-street-art-kill-puerco-chancastyleparties](http://www.nubak.com/blog/plaka-street-art-kill-puerco-chancastyleparties)
 ![Lienzo en madera para Street Art](cerdo-plaka.jpg)(full)
 ![Proceso creación del lienzo de madera](cerdo-proceso.jpg)
-
-
-
