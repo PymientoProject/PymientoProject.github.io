@@ -202,8 +202,8 @@
 					"introduction":"El movimiento de la fotografía",
 					"published": false,
 					"link": false,
-					"image":"people/",
-					"url":"people/bill-muslos",
+					"image":"people/imagen.jpg",
+					"url":"people/url",
 					"pages":[]
 				},
 				{
@@ -211,8 +211,8 @@
 					"introduction":"Inquieta por definición",
 					"published": false,
 					"link": false,
-					"image":"people/",
-					"url":"people/ana-mora",
+					"image":"people/imagen.jpg",
+					"url":"people/url",
 					"pages":[]
 				},
 				{
@@ -221,7 +221,7 @@
 					"published": false,
 					"link": false,
 					"image":"people/imagen.jpg",
-					"url":"people/cris-gongora",
+					"url":"people/url",
 					"pages":[]
 				}
 				{
