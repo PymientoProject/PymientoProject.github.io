@@ -5,7 +5,7 @@
 ### Deadline // Sobre PyCon y PyConES
 
 
-[PyCon](http://www.pycon.org/) es la mayor conferencia anual de la comunidad de usuarios y desarrolladores del lenguaje de programación de código abierto Python. A nivel nacional tenemos la [PyConES](), que se ha venido celebrando en Madrid, Zaragoza y Valencia en años anteriores.
+[PyCon](http://www.pycon.org/) es la mayor conferencia anual de la comunidad de usuarios y desarrolladores del lenguaje de programación de código abierto Python. A nivel nacional tenemos la [PyConES](http://2016.es.pycon.org/es/), que se ha venido celebrando en Madrid, Zaragoza y Valencia en años anteriores.
 
 Este año se celebrará en Almería, a lo largo de los días 7, 8 y 9 de Octubre, repartiendo el evento entre la Universidad y el Museo de Almería. Nos hemos colado en el evento, tanto dando una conferencia como con la exposición de nuestro proyecto experimental de creación ciudadana.
 
