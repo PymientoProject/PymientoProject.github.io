@@ -88,7 +88,7 @@
 			"image":"",
 			"url":"people",
 			"pages":[
-				{	
+				{
 					"id":"adolfo",
 					"title":"Adolfo Rosillo Herrera",
 					"introduction":"El SWAT de la filosofía poética",
@@ -126,12 +126,12 @@
 					"pages":[]
 				},
 				{
-					"title":"Favio Gutiérrez",
-					"introduction":"Diseño y discreción",
+					"title":"Francisco Acién",
+					"introduction":"Amante de las tecnologías libres",
 					"published": true,
 					"link": false,
-					"image":"people/favio.jpg",
-					"url":"people/favio-gutierrez",
+					"image":"people/fran.jpg",
+					"url":"people/fracisco-acien",
 					"pages":[]
 				},
 				{
@@ -144,30 +144,12 @@
 					"pages":[]
 				},
 				{
-					"title":"Francisco Acién",
-					"introduction":"Amante de las tecnologías libres",
-					"published": true,
-					"link": false,
-					"image":"people/fran.jpg",
-					"url":"people/fracisco-acien",
-					"pages":[]
-				},
-				{
 					"title":"Almudena Fernández",
 					"introduction":"Ingeniería y organización",
 					"published": true,
 					"link": false,
 					"image":"people/almudena.jpg",
 					"url":"people/almudena-fernandez",
-					"pages":[]
-				},
-				{
-					"title":"Sol Ravassa",
-					"introduction":"Directora-Editora en Editorial Soldesol",
-					"published": true,
-					"link": false,
-					"image":"people/sol.jpg",
-					"url":"people/sol-ravassa",
 					"pages":[]
 				},
 				{
@@ -198,6 +180,15 @@
 					"pages":[]
 				},
 				{
+					"title":"Remedios Fernandez",
+					"introduction":"Formadora de Tecnologías Creativas",
+					"published": true,
+					"link": false,
+					"image":"people/reme.jpg",
+					"url":"people/remedios-fernandez",
+					"pages":[]
+				},
+				{
 					"title":"Hugo Rosillo",
 					"introduction":"Ingeniería industrial y otras cosas",
 					"published": true,
@@ -207,12 +198,21 @@
 					"pages":[]
 				},
 				{
-					"title":"Remedios Fernandez",
-					"introduction":"Formadora de Tecnologías Creativas",
+					"title":"Favio Gutiérrez",
+					"introduction":"Diseño y discreción",
 					"published": true,
 					"link": false,
-					"image":"people/reme.jpg",
-					"url":"people/remedios-fernandez",
+					"image":"people/favio.jpg",
+					"url":"people/favio-gutierrez",
+					"pages":[]
+				},
+				{
+					"title":"Sol Ravassa",
+					"introduction":"Directora-Editora en Editorial Soldesol",
+					"published": true,
+					"link": false,
+					"image":"people/sol.jpg",
+					"url":"people/sol-ravassa",
 					"pages":[]
 				},
 				{
@@ -230,7 +230,7 @@
 		{
 			"title":"AGAP",
 			"introduction":"",
-			"published": true,
+			"published": false,
 			"image":"",
 			"url":"AGAP",
 			"pages":[]
