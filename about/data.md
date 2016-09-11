@@ -24,7 +24,7 @@ Fuente imágen // [www.filmingalmeria.es](http://www.filmingalmeria.es)
 
 Todo esto no sería posible sin el grupo humano que hay detrás. Empezamos siendo tres individuos, y el número se ha multiplicado por 5,x. Está compuesto de personas de distintas edades y oficios, porque como dice Pau Donés **_"...la pureza está en la mezcla, en la mezcla de lo puro, que antes que puro fue mezcla"_**. Hay personas del diseño, la creatividad, ingenieros **¡¡¡Lo peor de cada casa!!!** Cada uno conseguimos aportar nuestro granito de arena, ya que hemos tirado la careta de los prejuicios a la basura y estamos abiertos a los demás. Así que si quieres unirte en este viaje, acabas de ser invitado.  
 
- ![Equipo](equipo.jpg)
+ ![Equipo](equipo.jpg)(full)
 
 #### Python como herramienta // ¿Mundo Virtual (SW)? ¿Mundo Físico (HW)?
 
