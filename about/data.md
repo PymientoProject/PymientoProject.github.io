@@ -5,16 +5,16 @@
 ### Deadline // Sobre PyCon y PyConES
 
 
-[PyCon](http://www.pycon.org/) es la mayor conferencia anual de la comunidad de usuarios y desarrolladores del lenguaje de programación de código abierto Python. A nivel nacional tenemos la [PyConES](http://2016.es.pycon.org/es/), que se ha venido celebrando en Madrid, Zaragoza y Valencia en años anteriores.
+[PyCon](http://www.pycon.org/) es la **mayor conferencia anual de la comunidad de usuarios y desarrolladores del lenguaje de programación de código abierto Python**. A nivel nacional tenemos la [PyConES](http://2016.es.pycon.org/es/), que se ha venido celebrando en Madrid, Zaragoza y Valencia en años anteriores.
 
-Este año se celebrará en Almería, a lo largo de los días 7, 8 y 9 de Octubre, repartiendo el evento entre la Universidad y el Museo de Almería. Nos hemos colado en el evento, tanto dando una conferencia como con la exposición de nuestro proyecto experimental de creación ciudadana.
+Este año se celebrará **en Almería**, a lo largo de **los días 7, 8 y 9 de Octubre**, repartiendo el evento entre la **Universidad y el Museo de Almería**. Nos hemos colado en el evento, tanto dando una conferencia como con la exposición de nuestro proyecto experimental de creación ciudadana.
 
 ![Pycones 2016 Almería](pycones.png)(full)
 
 ### Exposición // Museo de Almería - Python España
 
 
-Jose Luis Sampedro, en su infinita sabiduría decía **...* estamos en este mundo para vivir, para realizarnos, para dar de cada uno de nosotros todo lo que puede dar, porque así tendrá todo lo que pueda recibir*...** Pues debe de ser verdad, porque empezamos sin nada, compartiendo lo poco que tenemos, y no hemos parado de recibir. Un ejemplo de esto es que tanto [Python España](http://www.es.python.org/) como el [Museo de Almería](http://www.museosdeandalucia.es/cultura/museos/MAL/) nos abrieron sus puertas. Vamos a exponer nuestro laboratorio de participación ciudadana en la sala Arrob@ del museo. La inauguración tendrá lugar el día 8 de octubre a las 20hs y estará disponible hasta el día 6 de Noviembre.
+Jose Luis Sampedro, en su infinita sabiduría decía **"*...estamos en este mundo para vivir, para realizarnos, para dar de cada uno de nosotros todo lo que puede dar, porque así tendrá todo lo que pueda recibir...*"** Pues debe de ser verdad, porque empezamos sin nada, compartiendo lo poco que tenemos, y no hemos parado de recibir. Un ejemplo de esto es que tanto [Python España](http://www.es.python.org/) como el [Museo de Almería](http://www.museosdeandalucia.es/cultura/museos/MAL/) nos abrieron sus puertas. Vamos a exponer nuestro laboratorio de participación ciudadana en la sala Arrob@ del museo. La inauguración tendrá lugar el día 8 de octubre a las 20hs y estará disponible hasta el día 6 de Noviembre.
 
 Durante el mes de exposición, haremos talleres *in situ*, donde poder enseñar a los asistentes a iniciarse en el mundillo Pymientero.
 
@@ -25,7 +25,7 @@ Fuente imágen // [www.filmingalmeria.es](http://www.filmingalmeria.es)
 ### El equipo // Somos personas, no recursos
 
 
-Todo esto no sería posible sin el grupo humano que hay detrás. Empezamos siendo tres individuos, y el número se ha multiplicado por 5,x. Está compuesto de personas de distintas edades y oficios, porque como dice Pau Donés **"...*la pureza está en la mezcla, en la mezcla de lo puro, que antes que puro fue mezcla*"**. Hay personas del diseño, la creatividad, ingenieros **¡¡¡Lo peor de cada casa!!!** Cada uno conseguimos aportar nuestro granito de arena, ya que hemos tirado la careta de los prejuicios a la basura y estamos abiertos a los demás. Pero Pymiento no está abierto solo para lo local. Contamos con parte del equipo trabajando desde otros lugares, colaboradores externos. Ni los conocimientos son una traba para participar, ni la distancia tampoco. Así que si quieres unirte en este viaje, acabas de ser invitado.  
+Todo esto no sería posible sin el grupo humano que hay detrás. Empezamos siendo tres individuos, y el número se ha multiplicado por 5,x. Está compuesto de personas de distintas edades y oficios, porque como dice Pau Donés **"*...la pureza está en la mezcla, en la mezcla de lo puro, que antes que puro fue mezcla*"**. Hay personas del diseño, la creatividad, ingenieros **¡¡¡Lo peor de cada casa!!!** Cada uno conseguimos aportar nuestro granito de arena, ya que hemos tirado la careta de los prejuicios a la basura y estamos abiertos a los demás. Pero Pymiento no está abierto solo para lo local. Contamos con parte del equipo trabajando desde otros lugares, colaboradores externos. Ni los conocimientos son una traba para participar, ni la distancia tampoco. Así que si quieres unirte en este viaje, acabas de ser invitado.  
 
 ![Equipo](equipo.jpg)(full)
 
