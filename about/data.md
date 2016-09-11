@@ -14,7 +14,7 @@ Este año se celebrará **en Almería**, a lo largo de **los días 7, 8 y 9 de O
 ### Exposición // Museo de Almería - Python España
 
 
-Jose Luis Sampedro, en su infinita sabiduría decía **"*...estamos en este mundo para vivir, para realizarnos, para dar de cada uno de nosotros todo lo que puede dar, porque así tendrá todo lo que pueda recibir...*"** Pues debe de ser verdad, porque empezamos sin nada, compartiendo lo poco que tenemos, y no hemos parado de recibir. Un ejemplo de esto es que tanto [Python España](http://www.es.python.org/) como el [Museo de Almería](http://www.museosdeandalucia.es/cultura/museos/MAL/) nos abrieron sus puertas. Vamos a exponer nuestro laboratorio de participación ciudadana en la sala Arrob@ del museo. La inauguración tendrá lugar el día 8 de octubre a las 20hs y estará disponible hasta el día 6 de Noviembre.
+Jose Luis Sampedro, en su infinita sabiduría decía **"...*estamos en este mundo para vivir, para realizarnos, para dar de cada uno de nosotros todo lo que puede dar, porque así tendrá todo lo que pueda recibir*..."** Pues debe de ser verdad, porque empezamos sin nada, compartiendo lo poco que tenemos, y no hemos parado de recibir. Un ejemplo de esto es que tanto [Python España](http://www.es.python.org/) como el [Museo de Almería](http://www.museosdeandalucia.es/cultura/museos/MAL/) nos abrieron sus puertas. Vamos a exponer nuestro laboratorio de participación ciudadana en la sala Arrob@ del museo. La inauguración tendrá lugar el día 8 de octubre a las 20hs y estará disponible hasta el día 6 de Noviembre.
 
 Durante el mes de exposición, haremos talleres *in situ*, donde poder enseñar a los asistentes a iniciarse en el mundillo Pymientero.
 
