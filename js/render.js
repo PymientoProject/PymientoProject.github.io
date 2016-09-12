@@ -114,7 +114,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 				            	title = markdownData.match(/<h1>(.*)<\/h1>/g);
 				            	title = title[0].replace("<h1>","").replace("</h1>","");
 
-				            	regexAuthInfo = /\(!(.*)\)/g;
+				            	regexAuthInfo = /\(!(\D+)\)/g;
 				            	
 				            	while((match = regexAuthInfo.exec(markdownData))!=null){
 

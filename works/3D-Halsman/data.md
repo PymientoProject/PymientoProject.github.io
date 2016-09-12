@@ -88,6 +88,23 @@ frames.append(frame2)
 writeGif("3d.gif", frames, duration=0.1, dither=0)
 
 
-
 ![GIF animado usando foto estereoscópica](images2gif/3d.gif)(natural)
 
+(!aitor)
+
+### Planteamiento artístico
+
+Transformar el mecanismo lineal y previsible de: "salto / saca foto / genera GIF / obtengo GIF" en un comportamiento ligeramente diferente.
+
+Hacer que debajo de la plataforma de salto se esconda una báscula para obtener su peso, y utilizando la propia cámara (o una complementaria) e implementando un script con [OpenCV-Python](https://opencv-python-tutroals.readthedocs.io/en/latest/) se podría obtener la estatura estimada del sujeto.
+
+Con estos datos, se puede calcular el [Indice de Masa Corporal](http://www.calculoimc.com/) y establecer si el sujeto tiene una complexión delgada, normal o de sobrepeso. Cuando esta persona fuese a obtener su **GIF animado** se encontraría que en cambio, lo primero que reciba es el resultado del **Indice de Masa Corporal**, recordándole que no leyó la letra pequeña del artefacto y que, la máquina además de hacer lo que parecía que hacía, obtuvo información personal bajo el consentimiento implícito al subirse en ella. Por último recibiría su GIF animado. 
+
+> El objetivo de esta propuesta es dar un toque de atención a la gente con respecto al uso que le estamos dando a la tecnología. Recordar que no todo lo que dice o parece ser realmente es. -A.Á.  
+
+
+(!gonnzo)
+
+### Propuesta All-in-one Xiaomi Yi / Linux / Python
+
+Volviendo a la cámara Xiaomi Yi y teniendo en cuenta que en su interior corre una versión de Linux, el planteamiento que hago es el siguiente: ¿por qué no integrar todo el proyecto dentro de la cámara? Es decir, instalarle Python (si no lo tiene instalado), las bibliotecas necesarias para trabajar con el GIF, etc, y usar su conexión WiFi para exportar el resultado a algún servidor externo vía FTP o similar. Dejo esta puerta abierta a ver si alguien se anima y me echa una mano en esta linea. 
