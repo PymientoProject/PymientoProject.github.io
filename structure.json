@@ -15,7 +15,7 @@
 			"image":"",
 			"url":"works",
 			"pages":[
-				{
+				{	"outstanding":true,
 					"title":"3D-Halsman",
 					"introduction":"Instantáneas en 3D instantáneo",
 					"published": true,
