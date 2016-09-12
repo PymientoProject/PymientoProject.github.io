@@ -40,6 +40,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 	href = window.location.href
 
 	refered = {}
+	outstanding = []
 
 	if(href.match(/8888/)==null){
 		url_base = 	"/";
@@ -47,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		count = (href.match(/\//g) || []).length;
 		url_base = count==4?"./":"../".repeat(count-4); 
 	}
-
+	//alert(count)
 
 	getScript(url_base+"js/jquery.min.js", function(){
 
@@ -68,6 +69,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 			            	$("<link/>", { rel: "stylesheet", type: "text/css", href: "https://fonts.googleapis.com/css?family=Maitree:400,200" }).appendTo("head");
 			            	$("<link/>", { rel: "stylesheet", type: "text/css", href: "https://fonts.googleapis.com/css?family=Oswald:400,700,300" }).appendTo("head");
+			            	//$("<link/>", { rel: "stylesheet", type: "text/css", href: "http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" }).appendTo("head");
+
 			            	$("<link/>", { rel: "stylesheet", type: "text/css", href: url_base+"css/styles.css?r="+Math.random() }).appendTo("head");
 			            	
 
@@ -97,14 +100,18 @@ document.addEventListener("DOMContentLoaded", function(event) {
 											+ ""+val2.introduction+""
 											+"</div>";
 
-										if(val2.id != null){
-											
+										if(val2.id != null)
 											refered[val2.id] = [val2.title, val2.image, val2.url]
-										}
+
+										if(val2.outstanding != null && val2.outstanding)
+											outstanding.push([val2.title, val2.introduction, val2.image, val2.url])
+									
 
 								  	});
 
 							  	});
+
+							  	//console.log(outstanding)
 
 							  	menu = "<div class='menu'>"+ menu + "</div>";
 							  	if(menu2) menu2 = "</div><div id='container'>"+ menu2 + "</div><div style='float:left;clear:both;'>";
@@ -133,7 +140,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 				            				ahref = "<a href='../../"+ref_url+"'>";
 
 
-				            				return ahref + "<div  class='reference'><img src='../../"+ref_img+"'/></a>Aportaci&oacute;n de:<br>"+ahref+ref_name+"</a></div>";
+				            				return "<div  class='reference'>"+ahref+"<img src='../../"+ref_img+"'/></a>Aportaci&oacute;n de:<br>"+ahref+ref_name+"</a></div>";
 				            			})
 				            			
 				            		}
@@ -143,8 +150,30 @@ document.addEventListener("DOMContentLoaded", function(event) {
 				            	markdownData = markdownData.replace(/\n\\n/g,'\n');
 
 				            	
+				            	if(outstanding.length > 0)
+				            		markdownData = markdownData.replace(/\(!outstanding\)/, function(b){
+			            				
+			            			outs = ''
+
+		            				for(i=0;i<outstanding.length;i++){
+		            					outs_title = outstanding[i][0];
+			            				outs_intro = outstanding[i][1];
+			            				outs_image = outstanding[i][2];
+			            				outs_url =   outstanding[i][3];
+
+			            				ahref = "<a href='"+outs_url+"'>";
+			            				outs += "<div  class='bricks outstanding'>"+ahref+"<img src='"+outs_image+"'/></a>"+ahref+outs_title+"</a><br>"+outs_intro+"</div>";
+		            				}
+		            				
+
+		            				
+
+
+		            				return outs
+			            			})
+
 				            	 
-				            	console.log(markdownData)
+				            	//console.log(markdownData)
 				            	
 				            	document.title = "Pymiento // " + title;
 				            	$('body').append(logo+'<div class="content">'+menu+markdownData+menu2+'</div>');
