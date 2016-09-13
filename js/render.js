@@ -183,7 +183,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 				            	
 				            	
 
-				            	content = (url_base!="./")?'<div class="content">'+menu+markdownData+menu2+'</div>':'';
+				            	content = (url_base!="./" && url_base!="/")?'<div class="content">'+menu+markdownData+menu2+'</div>':'';
 				            	$('body').append(logo+content);
 
 				            	logo_number = Math.round(Math.random() * 3) 
@@ -192,7 +192,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 								
 								$('.logo').css("background-image", 'url('+url_base+'img/bg'+logo_number+'.jpg)');
 								
-								if(url_base=="./"){
+								if(url_base=="./" || url_base=="/"){
 									$('.logo').append(menu);
 									$('.menu').css("margin-top","100px");
 									$('.menu a').css("background","#ffffff");
