@@ -41,14 +41,15 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 	refered = {}
 	//outstanding = []
+	count = (href.match(/\//g) || []).length;
 
 	if(href.match(/8888/)==null){
 		url_base = 	"/";
 	}else{
-		count = (href.match(/\//g) || []).length;
 		url_base = count==4?"./":"../".repeat(count-4); 
 	}
 
+	console.log(count)
 	console.log(url_base)
 
 
@@ -193,6 +194,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 								$('.logo').css("background-image", 'url('+url_base+'img/bg'+logo_number+'.jpg)');
 								
 								if(url_base=="./" || url_base=="/"){
+
 									$('.logo').append(menu);
 									$('.menu').css("margin-top","100px");
 									$('.menu a').css("background","#ffffff");
