@@ -43,12 +43,16 @@ document.addEventListener("DOMContentLoaded", function(event) {
 	//outstanding = []
 	count = (href.match(/\//g) || []).length;
 
+	 
+	isHome = (count == (4 - ((href.match(/8888/)==null)?1:0)))
+
 	if(href.match(/8888/)==null){
 		url_base = 	"/";
 	}else{
 		url_base = count==4?"./":"../".repeat(count-4); 
 	}
 
+	console.log(isHome)
 	console.log(count)
 	console.log(url_base)
 
@@ -184,7 +188,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 				            	
 				            	
 
-				            	content = (url_base!="./" && url_base!="/")?'<div class="content">'+menu+markdownData+menu2+'</div>':'';
+				            	content = (!isHome)?'<div class="content">'+menu+markdownData+menu2+'</div>':'';
 				            	$('body').append(logo+content);
 
 				            	logo_number = Math.round(Math.random() * 3) 
@@ -193,7 +197,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 								
 								$('.logo').css("background-image", 'url('+url_base+'img/bg'+logo_number+'.jpg)');
 								
-								if(url_base=="./" || url_base=="/"){
+								if(isHome){
 
 									$('.logo').append(menu);
 									$('.menu').css("margin-top","100px");
