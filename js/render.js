@@ -78,7 +78,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 			            	$("<link/>", { rel: "stylesheet", type: "text/css", href: url_base+"css/styles.css?r="+Math.random() }).appendTo("head");
 			            	
 
-			            	logo = "<div class='logo'><a href='"+url_base+"'><img src='"+url_base+"img/logo.png' id='logo' /></a></div>"
+			            	logo = "<div class='logo'><a href='"+url_base+"'><img src='"+url_base+"img/logo"+Math.round(Math.random() * 2)+".png' id='logo' /></a></div>"
 			            	menu = "";
 			            	menu2 = "";
 
