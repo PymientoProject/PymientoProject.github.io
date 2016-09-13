@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 	href = window.location.href
 
 	refered = {}
-	outstanding = []
+	//outstanding = []
 
 	if(href.match(/8888/)==null){
 		url_base = 	"/";
@@ -48,7 +48,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		count = (href.match(/\//g) || []).length;
 		url_base = count==4?"./":"../".repeat(count-4); 
 	}
-	//alert(count)
+
+
 
 	getScript(url_base+"js/jquery.min.js", function(){
 
@@ -103,8 +104,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
 										if(val2.id != null)
 											refered[val2.id] = [val2.title, val2.image, val2.url]
 
-										if(val2.outstanding != null && val2.outstanding)
-											outstanding.push([val2.title, val2.introduction, val2.image, val2.url])
+										//if(val2.outstanding != null && val2.outstanding)
+										//	outstanding.push([val2.title, val2.introduction, val2.image, val2.url])
 									
 
 								  	});
@@ -149,7 +150,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 				            	markdownData = markdownData.replace(/<pre><code> /g,'<pre><code>');
 				            	markdownData = markdownData.replace(/\n\\n/g,'\n');
 
-				            	
+				            	/*
 				            	if(outstanding.length > 0)
 				            		markdownData = markdownData.replace(/\(!outstanding\)/, function(b){
 			            				
@@ -171,19 +172,43 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 		            				return outs
 			            			})
+				            	*/
 
 				            	 
 				            	//console.log(markdownData)
 				            	
-				            	document.title = "Pymiento // " + title;
-				            	$('body').append(logo+'<div class="content">'+menu+markdownData+menu2+'</div>');
+				            	document.title = "Pymiento | " + title;
+
+				            	
+				            	
+
+				            	content = (url_base!="./")?'<div class="content">'+menu+markdownData+menu2+'</div>':'';
+				            	$('body').append(logo+content);
 
 				            	logo_number = Math.round(Math.random() * 3) 
 				            	
 
-								//$('#logo').attr("src", url_base+'img/logo'+logo_number+'.png');
+								
 								$('.logo').css("background-image", 'url('+url_base+'img/bg'+logo_number+'.jpg)');
 								
+								if(url_base=="./"){
+									$('.logo').append(menu);
+									$('.menu').css("margin-top","100px");
+									$('.menu a').css("background","#ffffff");
+									$('.menu a').css("color","#000000");
+
+									$('.menu a').mouseenter(function() {
+
+										$(this).css("background","#000000");
+										$(this).css("color","#ffffff");
+									}).mouseleave(function() {
+									    $(this).css("background","#ffffff");
+										$(this).css("color","#000000");
+									});
+
+									$('.logo').css("height","1500px");
+								}
+
 				            	if(menu2){
 					            	doMasonry();
 

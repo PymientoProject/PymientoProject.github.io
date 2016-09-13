@@ -69,6 +69,17 @@
 					"url":"works/genAgario",
 					"pages":[]
 				},
+
+				{
+					"title":"AGAP",
+					"introduction":"Asynchronous Generative Art Protocol​",
+					"published": true,
+					"link": true,
+					"image":"works/agap.jpg",
+					"url":"works/AGAP",
+					"pages":[]
+				},
+
 				{
 					"title":"empty",
 					"introduction":"intro",
@@ -252,14 +263,6 @@
 				}
 
 			]
-		},
-		{
-			"title":"AGAP",
-			"introduction":"",
-			"published": false,
-			"image":"",
-			"url":"AGAP",
-			"pages":[]
 		}
 	]
 }
