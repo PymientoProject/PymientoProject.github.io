@@ -49,6 +49,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		url_base = count==4?"./":"../".repeat(count-4); 
 	}
 
+	console.log(url_base)
 
 
 	getScript(url_base+"js/jquery.min.js", function(){
