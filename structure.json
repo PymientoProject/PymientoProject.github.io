@@ -100,7 +100,7 @@
 			"url":"people",
 			"pages":[
 				{	"id":"adolfo",
-					"title":"Adolfo Rosillo Herrera",
+					"title":"Adolfo",
 					"introduction":"Bacteria poética",
 					"published": true,
 					"link": true,
@@ -109,7 +109,7 @@
 					"pages":[]
 				},
 				{ "id":"crisconru",
-					"title":"Cristóbal Contreras",
+					"title":"Cristo",
 					"introduction":"Flamer ecléptico",
 					"published": true,
 					"link": true,
@@ -118,7 +118,7 @@
 					"pages":[]
 				},
 				{ "id":"josemar",
-					"title":"Josema Martínez",
+					"title":"Josema",
 					"introduction":"Ingeniería aplicada al arte",
 					"published": true,
 					"link": true,
@@ -127,7 +127,7 @@
 					"pages":[]
 				},
 				{	"id":"gonnzo",
-					"title":"Gonzalo Moyano",
+					"title":"Gonzalo",
 					"introduction":"Multipotencialista & maker",
 					"published": true,
 					"link": true,
@@ -136,7 +136,7 @@
 					"pages":[]
 				},
 				{ "id":"acien",
-					"title":"Francisco Acién",
+					"title":"Fran",
 					"introduction":"Amante de las tecnologías libres",
 					"published": true,
 					"link": true,
@@ -145,7 +145,7 @@
 					"pages":[]
 				},
 				{ "id":"delia",
-					"title":"Delia Gálvez Moreno",
+					"title":"Delia",
 					"introduction":"Maker interiorista",
 					"published": true,
 					"link": true,
@@ -154,7 +154,7 @@
 					"pages":[]
 				},
 				{ "id":"almu",
-					"title":"Almudena Fernández Pena",
+					"title":"Almudena",
 					"introduction":"Creatividad por bandera",
 					"published": true,
 					"link": true,
@@ -163,7 +163,7 @@
 					"pages":[]
 				},
 				{ "id":"aitor",
-					"title":"Aitor Álvarez",
+					"title":"Aitor",
 					"introduction":"El ingeniero filósofo",
 					"published": true,
 					"link": true,
@@ -172,7 +172,7 @@
 					"pages":[]
 				},
 				{ "id":"olga",
-					"title":"Olga Fernández Mayor",
+					"title":"Olga",
 					"introduction":"Design thinking y organización",
 					"published": true,
 					"link": true,
@@ -181,7 +181,7 @@
 					"pages":[]
 				},
 				{ "id":"guille",
-					"title":"Guille Fuertes",
+					"title":"Guille",
 					"introduction":"El físico periodista",
 					"published": true,
 					"link": true,
@@ -190,7 +190,7 @@
 					"pages":[]
 				},
 				{ "id":"reme",
-					"title":"Remedios Fernandez",
+					"title":"Remedios",
 					"introduction":"Robótica infantil",
 					"published": true,
 					"link": true,
@@ -199,7 +199,7 @@
 					"pages":[]
 				},
 				{ "id":"hugo",
-					"title":"Hugo Rosillo",
+					"title":"Hugo",
 					"introduction":"Amante de la casquería mecánica",
 					"published": true,
 					"link": true,
@@ -208,7 +208,7 @@
 					"pages":[]
 				},
 				{ "id":"cris",
-					"title":"Cris Góngora",
+					"title":"Cris",
 					"introduction":"Psicopedagogía y manualidades",
 					"published": true,
 					"link": true,
@@ -217,7 +217,7 @@
 					"pages":[]
 				},
 				{ "id":"bill",
-					"title":"Bill Muslos",
+					"title":"Bill",
 					"introduction":"Un punky del estenopo",
 					"published": true,
 					"link": true,
@@ -226,7 +226,7 @@
 					"pages":[]
 				},
 				{ "id":"ana",
-					"title":"Ana Mora Maldonado",
+					"title":"Ana",
 					"introduction":"Inquieta por definición",
 					"published": true,
 					"link": true,
@@ -235,7 +235,7 @@
 					"pages":[]
 				},
 				{ "id":"favio",
-					"title":"Favio Gutierrez",
+					"title":"Favio",
 					"introduction":"Diseño y Comunicación Visual",
 					"published": true,
 					"link": true,
