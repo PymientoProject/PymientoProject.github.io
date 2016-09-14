@@ -2,4 +2,4 @@
 
 ## Amante de las tecnologías libres
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec felis felis. Phasellus quis est posuere, iaculis risus et, sollicitudin velit. Nunc luctus purus ut varius porttitor. In hac habitasse platea dictumst. Nulla blandit egestas nisi a faucibus. Nulla laoreet bibendum nunc at pretium. Curabitur pulvinar porta lorem, mollis gravida velit bibendum.
+Acabo de empezar a estudiar el doble grado de Computadores y algo más que **no me acuerdo** en la UPM. Disfruto mucho haciendo proyectos, conociendo gente, aprendiendo y coolaborando. Me entusiasman las **tecnologias libres**, y los proyectos coolaborativos. Pertenezco al coolectivo **Hacklab Almería**, donde hemos hecho algunos talleres relacionados con la electrónica y la programación. Comparto todo mi códiog en github [aquí](https://github.com/acien101). [Twitter](https://twitter.com/amil101)
