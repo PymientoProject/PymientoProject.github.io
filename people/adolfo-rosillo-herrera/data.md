@@ -9,7 +9,7 @@ Miembro **fundador** del colectivo [Hacklab Almería](http://hacklabalmeria.net/
 
 ## Despreciadas, temidas, ignoradas, perseguidas, invisibles. Así son, agentes de transformación en permanente proceso de redefinición, de sí mismas y de lo que las rodea. Las primeras en llegar y probablemente las últimas en marcharse de cualquier escenario vivo. Apenas nada y sin embargo, imprescindibles.  
 
-[@outecran](https://twitter.com/outecran)  
 
+[@outecran](https://twitter.com/outecran)  
 
 [facebook](https://www.facebook.com/adolfo.rosillo)  
