@@ -11,5 +11,4 @@ Miembro **fundador** del colectivo [Hacklab Almería](http://hacklabalmeria.net/
 
 
 [@outecran](https://twitter.com/outecran)  
-
 [facebook](https://www.facebook.com/adolfo.rosillo)  
