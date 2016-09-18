@@ -101,10 +101,10 @@
 			"pages":[
 				{	"id":"adolfo",
 					"title":"Adolfo",
-					"introduction":"Bacteria poética",
+					"introduction":"Agente provocador. Bacteria poética",
 					"published": true,
 					"link": true,
-					"image":"people/adolfo.jpg",
+					"image":"people/adolfo-rosillo.png",
 					"url":"people/adolfo-rosillo-herrera",
 					"pages":[]
 				},
