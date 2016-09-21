@@ -79,7 +79,15 @@
 					"url":"works/AGAP",
 					"pages":[]
 				},
-
+				{
+					"title":"Schrödinger's python",
+					"introduction":"¿Hay código Python o no? Sí y no, según se observe.",
+					"published": true,
+					"link": true,
+					"image":"works/schrodingers-python.jpg",
+					"url":"works/schrodingers-python",
+					"pages":[]
+				},
 				{
 					"title":"empty",
 					"introduction":"intro",
@@ -120,8 +128,8 @@
 				{ "id":"josemar",
 					"title":"Josema",
 					"introduction":"Ingeniería aplicada al arte",
-					"published": true,
-					"link": true,
+					"published": false,
+					"link": false,
 					"image":"people/josema.jpg",
 					"url":"people/josema-martinez",
 					"pages":[]
