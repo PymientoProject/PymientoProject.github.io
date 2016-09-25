@@ -16,7 +16,7 @@
 			"url":"works",
 			"pages":[
 				{
-					"title":"Schrödinger's python",
+					"title":"Schrödinger's Python",
 					"introduction":"¿Hay código Python o no?",
 					"published": true,
 					"link": true,
