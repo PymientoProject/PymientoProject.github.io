@@ -17,7 +17,7 @@
 			"pages":[
 				{
 					"title":"Schrödinger's python",
-					"introduction":"¿Hay código Python o no? Sí y no, según se observe.",
+					"introduction":"¿Hay código Python o no?",
 					"published": true,
 					"link": true,
 					"image":"works/schrodingers-python.jpg",
@@ -35,7 +35,7 @@
 				},
 				{
 					"title":"AGAP",
-					"introduction":"Asynchronous Generative Art Protocol​",
+					"introduction":"Datos que crean obras y vivecersa​",
 					"published": true,
 					"link": true,
 					"image":"works/agap.jpg",
@@ -44,7 +44,7 @@
 				},
 				{
 					"title":"dancingChair",
-					"introduction":"Baila mejor que muchos que conozcas",
+					"introduction":"Muy pronto en Ikea...",
 					"published": true,
 					"link": false,
 					"image":"works/dancingchair.jpg",
