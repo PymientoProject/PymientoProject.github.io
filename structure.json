@@ -155,7 +155,7 @@
 					"title":"Delia",
 					"introduction":"Maker interiorista",
 					"published": true,
-					"link": true,
+					"link": false,
 					"image":"people/delia.jpg",
 					"url":"people/delia-galvez-moreno",
 					"pages":[]
@@ -164,7 +164,7 @@
 					"title":"Almudena",
 					"introduction":"Creatividad por bandera",
 					"published": true,
-					"link": true,
+					"link": false,
 					"image":"people/almudena.jpg",
 					"url":"people/almudena-fernandez",
 					"pages":[]
@@ -173,7 +173,7 @@
 					"title":"Aitor",
 					"introduction":"El ingeniero filósofo",
 					"published": true,
-					"link": true,
+					"link": false,
 					"image":"people/aitor.jpg",
 					"url":"people/aitor-alvarez",
 					"pages":[]
@@ -182,7 +182,7 @@
 					"title":"Olga",
 					"introduction":"Design thinking y organización",
 					"published": true,
-					"link": true,
+					"link": false,
 					"image":"people/olga.jpg",
 					"url":"people/olga-fernandez",
 					"pages":[]
@@ -191,7 +191,7 @@
 					"title":"Guille",
 					"introduction":"El físico periodista",
 					"published": true,
-					"link": true,
+					"link": false,
 					"image":"people/guille.jpg",
 					"url":"people/guille-fuertes",
 					"pages":[]
@@ -200,7 +200,7 @@
 					"title":"Remedios",
 					"introduction":"Robótica infantil",
 					"published": true,
-					"link": true,
+					"link": false,
 					"image":"people/reme.jpg",
 					"url":"people/remedios-fernandez",
 					"pages":[]
@@ -209,7 +209,7 @@
 					"title":"Hugo",
 					"introduction":"Amante de la casquería mecánica",
 					"published": true,
-					"link": true,
+					"link": false,
 					"image":"people/hugo.jpg",
 					"url":"people/hugo-rosillo",
 					"pages":[]
@@ -227,7 +227,7 @@
 					"title":"Bill",
 					"introduction":"Un punky del estenopo",
 					"published": true,
-					"link": true,
+					"link": false,
 					"image":"people/bill.jpg",
 					"url":"people/bill-muslos",
 					"pages":[]
@@ -236,7 +236,7 @@
 					"title":"Ana",
 					"introduction":"Inquieta por definición",
 					"published": true,
-					"link": true,
+					"link": false,
 					"image":"people/ana.jpg",
 					"url":"people/ana-mora",
 					"pages":[]
