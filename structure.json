@@ -16,6 +16,69 @@
 			"url":"works",
 			"pages":[
 				{
+					"title":"Jacquard-Mondrian",
+					"introduction":"Programa tu cuadro",
+					"published": false,
+					"link": false,
+					"image":"works/imagen.jpg",
+					"url":"works/Jacquard-Mondrian",
+					"pages":[]
+				},
+				{
+					"title":"Tweet4Life",
+					"introduction":"Tus actos, tu mundo",
+					"published": false,
+					"link": true,
+					"image":"works/imagen.jpg",
+					"url":"works/plantas-twitter",
+					"pages":[]
+				},
+				{
+					"title":"Python Stones",
+					"introduction":"intro",
+					"published": false,
+					"link": true,
+					"image":"works/imagen.jpg",
+					"url":"works/url",
+					"pages":[]
+				},
+						{
+							"title":"empty",
+							"introduction":"intro",
+							"published": false,
+							"link": true,
+							"image":"works/imagen.jpg",
+							"url":"works/url",
+							"pages":[]
+						},
+							{
+								"title":"empty",
+								"introduction":"intro",
+								"published": false,
+								"link": true,
+								"image":"works/imagen.jpg",
+								"url":"works/url",
+								"pages":[]
+							},
+								{
+									"title":"empty",
+									"introduction":"intro",
+									"published": false,
+									"link": true,
+									"image":"works/imagen.jpg",
+									"url":"works/url",
+									"pages":[]
+								},
+									{
+										"title":"empty",
+										"introduction":"intro",
+										"published": false,
+										"link": true,
+										"image":"works/imagen.jpg",
+										"url":"works/url",
+										"pages":[]
+									},
+				{
 					"title":"Schrödinger's Python",
 					"introduction":"¿Hay código Python o no?",
 					"published": true,
@@ -96,7 +159,6 @@
 					"url":"works/url",
 					"pages":[]
 				}
-
 			]
 		},
 		{
@@ -200,7 +262,7 @@
 					"title":"Remedios",
 					"introduction":"Robótica infantil",
 					"published": true,
-					"link": false,
+					"link": true,
 					"image":"people/reme.jpg",
 					"url":"people/remedios-fernandez",
 					"pages":[]
@@ -236,7 +298,7 @@
 					"title":"Ana",
 					"introduction":"Inquieta por definición",
 					"published": true,
-					"link": false,
+					"link": true,
 					"image":"people/ana.jpg",
 					"url":"people/ana-mora",
 					"pages":[]
