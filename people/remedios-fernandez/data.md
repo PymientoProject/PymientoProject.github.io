@@ -6,7 +6,7 @@ Soy técnico superior en Administración de Sistemas Informáticos, y estuve dos
 
 Hasta que un día, aunque suene a tópico, ser madre me trajo sentido a mi vida. Poco a poco el caos que a veces nos parece la niñez fue poniendo orden en mis prioridades, y mi hija se convirtió en la causa fundamental y la meta de un viaje por el amplio mundo en que se unen las tecnologías y los niños (y los jóvenes, claro).
 
-De modo que justo hace un año decidí cambiar el rumbo de mi vida, y ahora me dedico a la **coordinación, formación y experimentación de tecnologías innovadoras, creativas y educativas para niños y no tan niños, en** [Habilitas Educación](http://www.habilitas-educacion.es)  en Almería.
+De modo que justo hace un año decidí cambiar el rumbo de mi vida, y ahora me dedico a la **coordinación, formación y experimentación de tecnologías innovadoras, creativas y educativas para niños y no tan niños, en** [Habilitas Educación](http://www.habilitas-educacion.es) en Almería.
 
 Así surgió el proyecto [MomandGeek](http://www.momandgeek.com), un blog personal en el que hablo de estos temas, e intento ayudar a acercar la tecnología a los padres, madres, tíos, abuelos, para que juntos podamos enseñarla a nuestros hijos e integrarla en su educación.
 
