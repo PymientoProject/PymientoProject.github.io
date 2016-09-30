@@ -77,8 +77,13 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 			            	$("<link/>", { rel: "stylesheet", type: "text/css", href: url_base+"css/styles.css?r="+Math.random() }).appendTo("head");
 			            	
+			            	social = "<div class='social'>";
+			            	social += "<a href='https://twitter.com/PymientoProject' target='_blank'><img src='"+url_base+"img/tw.png'></a>";
+			            	social += "<a href='https://www.facebook.com/pymiento' target='_blank'><img src='"+url_base+"img/fb.png'></a>";
+			            	social += "<a href='https://github.com/PymientoProject' target='_blank'><img src='"+url_base+"img/git.png'></a>";
+			            	social += "</div>";
 
-			            	logo = "<div class='logo'><a href='"+url_base+"'><img src='"+url_base+"img/logo"+Math.round(Math.random() * 2)+".png' id='logo' /></a></div>"
+			            	logo = "<div class='logo'>"+social+"<a href='"+url_base+"'><img src='"+url_base+"img/logo"+Math.round(Math.random() * 2)+".png' id='logo' /></a></div>"
 			            	menu = "";
 			            	menu2 = "";
 
@@ -184,7 +189,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 				            	
 				            	
-
 				            	content = (!isHome)?'<div class="content">'+menu+markdownData+menu2+'</div>':'';
 				            	$('body').append(logo+content);
 
