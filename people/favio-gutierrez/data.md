@@ -37,6 +37,6 @@ Practicar sinergia entre personajes de distintos ámbitos me ha permitido conoce
 Durante la primera movida tecnocientífica que se celebró en Almería (Hackaton 2014), conocí a [Cristo](../cristo-contreras-rubio/)(local) y a [Adolfo](../adolfo-rosillo-herrera/)(local), ellos me contagiaron sus ideas y sus ganas de hacer cosas nuevas, diferentes, innovadoras  y aquí estoy aportando un granito de arena a Pymiento Project.
 Potenciador de la sinergia entre personajes de diferentes sectores me incentivó a colaborar en este gran proyecto.
 
-![Favio Gutierrez](tarjeta-en-mano.jpg)(full)
+![Favio Gutierrez](tarjeta-en-mano-sm.jpg)(full)
 
 
