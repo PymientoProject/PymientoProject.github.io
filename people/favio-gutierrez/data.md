@@ -1,15 +1,43 @@
 # Favio Gutierrez
 
-## Diseño y Comunicación Visual
-
-Licenciado en Diseño y Comunicación Visual, creativo, apasionado por el branding, las nuevas formas de comunicación y la publicidad.
+## Diseñador gráfico todoterreno
 
 
-Ha ejercido puestos de responsabilidad en la comunicación de Empresas de Proyección Internacional, Nacional y Regional. Agencias de comunicación, de publicidad y estudios de diseño, han sido la base de su prospección profesional.
 
-![faviogutierrez.com](faviogutierrez-logo.png)
+Diseñador gráfico, fan absoluto de las nuevas tecnologías, y papá al uso ;-)
 
-Creador de [faviogutierrez.com](http://www.faviogutierrez.com), estudio multidisciplinar donde dirige  y coordina a otros profesionales freelance desde hace doce años, ofreciendo servicios de estrategia, desarrollo y producción en el ámbito de Branding, diseño web y marketing digital.
+Licenciado en Diseño y Comunicación Visual, formado y experimentado en múltiples disciplinas de diseño gráfico y web.
 
 
-![Favio Gutierrez](favio.jpg)(full)
+Apasionado por el branding, amante de las tipografías y curioso de las nuevas formas de comunicación visual, soy el que ayuda a que tu imagen venda!
+
+
+Varios años de bagaje en estudios de diseño en Buenos Aires me proporcionaron la experiencia, la seguridad y los conocimientos para volar, y así llegué a España, hace ya más de quince años.
+![Favio Gutierrez](franja-favio-gutierrez-logo.png)(full)
+ 
+
+### ¿Qué hago aquí?
+
+![Favio Gutierrez](collage-fotos.jpg)
+
+Desde hace doce años, gestionar mi propio estudio de diseño, a la vez, dirigir y coordinar el proyecto faviogutierrez.com, dónde y junto a otros profesionales freelance ofrezco servicios de estrategia, desarrollo y producción en el ámbito de Branding, Diseño Web y Marketing Digital.
+ 
+
+### Experiencia
+
+
+
+Agencias de comunicación, publicidad y diseño han sido los culpables de todo lo que hasta ahora he aprendido y practicado, aunque, y dicho sea de paso, el Master en Marketing Digital y eCommerce me ha ayudado a seguir en órbita y a mantenerme al día en esta rueda loca que gira cada vez más rápido de la mano de internet.
+
+![Favio Gutierrez](branding.png)(full)
+![Favio Gutierrez](web.png)(full)
+ 
+Practicar sinergia entre personajes de distintos ámbitos me ha permitido conocer e interactuar en diversos sectores de actividad.
+ 
+Durante la primera movida tecnocientífica que se celebró en Almería (Hackaton 2014), conocí a Cristo y a Adolfo, ellos me contagiaron sus ideas y sus ganas de hacer cosas nuevas, diferentes, innovadoras  y aquí estoy aportando un granito de arena a Pymiento Project.
+Potenciador de la sinergia entre personajes de diferentes sectores me incentivó a colaborar en este gran proyecto.
+
+![Favio Gutierrez](recurso.png)(natural)
+![Favio Gutierrez](tarjeta-en-mano.jpg)(full)
+
+

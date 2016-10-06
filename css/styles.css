@@ -37,7 +37,7 @@ a:hover {
 
 .logo {
 	width:100%;
-	height: 500px;
+	height: 520px;
 	text-align: center;
 
   background: no-repeat center center fixed;
@@ -213,11 +213,11 @@ blockquote {
 .social {
 	width: 80%;
 	text-align: right;
-	margin:10px auto;
+	margin:0px auto;
 }
 
 .social img {
-	width:50px;
+	width:36px;
 	margin-left: 20px;
 }
 
