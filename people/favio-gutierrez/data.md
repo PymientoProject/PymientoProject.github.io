@@ -20,7 +20,7 @@ Varios años de bagaje en estudios de diseño en Buenos Aires me proporcionaron 
 
 ![Favio Gutierrez](collage-fotos.jpg)
 
-Desde hace doce años, gestionar mi propio estudio de diseño, a la vez, dirigir y coordinar el proyecto faviogutierrez.com, dónde y junto a otros profesionales freelance ofrezco servicios de estrategia, desarrollo y producción en el ámbito de Branding, Diseño Web y Marketing Digital.
+Desde hace doce años, gestionar mi propio estudio de diseño, a la vez, dirigir y coordinar el proyecto [faviogutierrez.com](http://www.faviogutierrez.com), dónde y junto a otros profesionales freelance ofrezco servicios de estrategia, desarrollo y producción en el ámbito de Branding, Diseño Web y Marketing Digital.
  
 
 ### Experiencia
@@ -34,7 +34,7 @@ Agencias de comunicación, publicidad y diseño han sido los culpables de todo l
  
 Practicar sinergia entre personajes de distintos ámbitos me ha permitido conocer e interactuar en diversos sectores de actividad.
  
-Durante la primera movida tecnocientífica que se celebró en Almería (Hackaton 2014), conocí a Cristo y a Adolfo, ellos me contagiaron sus ideas y sus ganas de hacer cosas nuevas, diferentes, innovadoras  y aquí estoy aportando un granito de arena a Pymiento Project.
+Durante la primera movida tecnocientífica que se celebró en Almería (Hackaton 2014), conocí a [Cristo](../cristo-contreras-rubio/)(local) y a [Adolfo](../adolfo-rosillo-herrera/)(local), ellos me contagiaron sus ideas y sus ganas de hacer cosas nuevas, diferentes, innovadoras  y aquí estoy aportando un granito de arena a Pymiento Project.
 Potenciador de la sinergia entre personajes de diferentes sectores me incentivó a colaborar en este gran proyecto.
 
 ![Favio Gutierrez](recurso.png)(natural)
