@@ -18,9 +18,9 @@
 				{
 					"title":"jacquard-mondrian",
 					"introduction":"Programa tu cuadro",
-					"published": false,
-					"link": false,
-					"image":"works/imagen.jpg",
+					"published": true,
+					"link": true,
+					"image":"works/cpc.jpg",
 					"url":"works/Jacquard-Mondrian",
 					"pages":[]
 				},
