@@ -17,6 +17,6 @@ Puede ser un mandala...
 
 ![Mandalillo](mandalillo.jpg)
 
-La cuestión es que **el mero espectador**, que **no tiene ni porque saber informática, pero** es de hecho el que **programa el cuadro**. Una acción tan nimia como **quitar agujeritos con el dedo en un flyer publicitario, genera un algoritmo que reproduce algo en pantalla**. Y **lo has hecho tu querido espectador**, no lo ha hecho la NASA ni Google, aquí ¡¡¡**el prota eres tu**!!!
+La cuestión es que **el mero espectador**, que **no tiene ni porque saber informática**, es el que **programa el cuadro**. Una acción tan nimia como **quitar agujeritos con el dedo en un flyer publicitario, genera un algoritmo que reproduce algo en pantalla**. Y **lo has hecho tu querido espectador**, no lo ha hecho la NASA ni Google, aquí ¡¡¡**el prota eres tu**!!!
 
 ![Tarjeta Pymiento](tarjeta.png)
