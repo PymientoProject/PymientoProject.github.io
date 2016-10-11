@@ -25,6 +25,15 @@
 					"pages":[]
 				},
 				{
+					"title":"movieBox",
+					"introduction":"Uniendo tecnología y animación",
+					"published": true,
+					"link": true,
+					"image":"works/moviebox.jpg",
+					"url":"works/movieBox",
+					"pages":[]
+				},
+				{
 					"title":"Tweet4Life",
 					"introduction":"Tus actos, tu mundo",
 					"published": false,
