@@ -1,5 +1,9 @@
-# Hugo Rosillo
+---
+layout: default
+title: Olga Lucía Fernandez Mayor
+abstract: Design thinking y organización
+hack: "<div class='content'>"
+---
 
-## Amante de la casquería mecánica
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec felis felis. Phasellus quis est posuere, iaculis risus et, sollicitudin velit. Nunc luctus purus ut varius porttitor. In hac habitasse platea dictumst. Nulla blandit egestas nisi a faucibus. Nulla laoreet bibendum nunc at pretium. Curabitur pulvinar porta lorem, mollis gravida velit bibendum.

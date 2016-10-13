@@ -1,6 +1,9 @@
-# Remedios Fernández Lozano
-
-## Experimentando con Tecnologías Creativas
+---
+layout: default
+title: Remedios Fernández Lozano
+abstract: Experimentando con Tecnologías Creativas
+hack: "<div class='content'>"
+---
 
 Soy técnico superior en Administración de Sistemas Informáticos, y estuve dos años en la carrera de Informática de Gestión. Luego, durante años fui profesora, monitora, webmaster, desarrolladora… Pero a veces la vida se enreda, surgen caminos que no son tal, cantos de sirena que luego se convierten en trampas que te roban tus sueños…
 

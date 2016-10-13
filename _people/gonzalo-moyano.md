@@ -1,6 +1,9 @@
-# Gonzalo Moyano
-
-## Multipotencialista & creative maker
+---
+layout: default
+title: Gonzalo Moyano
+abstract: Multipotencialista & creative maker
+hack: "<div class='content'>"
+---
 
 Comencé a programar con una Texas Instrument TI-99/4A cuando tenía 8 años, así que se podría decir que llevo casi toda mi vida programando!
 
@@ -13,7 +16,7 @@ Texas Instruments TI-99 TV Commercial - "This is the One!" - Featuring Bill Cosb
 
 Desde que apareció Internet por casa no he hecho otra cosa más que dedicarme al desarrollo web. Colaterlamente he aprendido cuestiones de diseño gráfico, imagen corporativa, contenidos digitales, fotografía, lenguaje audiovisual, edición de vídeo, modelado en 3D, etc.
 
-![Coverpage](coverpage.jpg)(full)
+![Coverpage](coverpage.jpg){: .full }
 
 ### Ping Health Care Beacon // 1º Premio en el Hackaton 2015
 
@@ -43,5 +46,5 @@ Desde el modelado en 3D, pasando por el proceso constructivo y terminando con el
 
 Diseño y creación de un lienzo en madera para una performance de Street Art.
 Más info en mi blog: [nubak.com/blog/plaka-street-art-kill-puerco-chancastyleparties](http://www.nubak.com/blog/plaka-street-art-kill-puerco-chancastyleparties)
-![Lienzo en madera para Street Art](cerdo-plaka.jpg)(full)
+![Lienzo en madera para Street Art](cerdo-plaka.jpg){: .full }
 ![Proceso creación del lienzo de madera](cerdo-proceso.jpg)

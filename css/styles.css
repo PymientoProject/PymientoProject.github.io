@@ -58,6 +58,13 @@ img.content{
 	margin-top: 20px;
 }
 
+img.full{
+	display:inline-block;
+ 	margin-left:-30%;
+	text-align:center;
+        width:100vw;
+}
+
 img.natural {
 	display: block;
 	margin: 0 auto;
