@@ -43,6 +43,8 @@ collections:
     output: true
   blog:
     output: true
+  prensa:
+    output: true
 socials:
   - url: https://twitter.com/PymientoProject
     img: tw.png
@@ -59,4 +61,6 @@ menu:
     url: /people
   - text: Blog
     url: /blog
+  - text: Prensa
+    url: /prensa
 

@@ -1,0 +1,17 @@
+---
+layout: default
+title: "Prensa"
+abstract: "Recortes de prensa"
+recortes:
+  - titulo: recorte1
+    enlace: #
+    imagen: #
+---
+
+{% for cada in page.recortes %}
+<div class="content">
+<h3>{{ cada.titulo }}</h3>
+</div>
+<a href="{{ cada.enlace }}"<img  src="{{ cada.imagen }}" /></a>
+{% endfor %}
+
