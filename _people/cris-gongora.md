@@ -1,6 +1,9 @@
-# Cristina Góngora García
-
-## Psicopedagogía y manualidades
+---
+layout: default
+title: Cristina Góngora García
+abstract: Psicopedagogía y manualidades
+hack: "<div class='content'>"
+---
 
 He llegado a formar parte de este grupo por casualidades de la vida. Me encuentro rodeada de tecnología, aunque me queda mucho por aprender. Unirme a este equipo de trabajo me está proporcionando nuevas experiencias, por tal motivo, me encantaría aportar mis conocimientos educativos y creativos al  proyecto.
 ![Artículo en la Voz de Almería](cris-coverpage.jpg)(full)
