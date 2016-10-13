@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Maitree';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Maitree ExtraLight'), local('Maitree-ExtraLight'), url('/css/EZukaZJ9yoSZwWbv6qFtQi3USBnSvpkopQaUR-2r7iU.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Maitree';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Maitree'), url('/css/OXg9cntzzduR1s4TEF-vbQ.ttf') format('truetype');
+}

@@ -62,7 +62,7 @@ img.full{
 	display:inline-block;
  	margin-left:-30%;
 	text-align:center;
-        width:100vw;
+        width:100vw;  
 }
 
 img.natural {
@@ -152,8 +152,8 @@ h4 {
 }
 
 #container {
-	margin: 40px auto 0 auto;
-	clear: both;
+	margin: 40px auto 0 auto; 
+	clear: both; 
 }
 
 .brick {

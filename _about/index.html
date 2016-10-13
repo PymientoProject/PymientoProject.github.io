@@ -13,19 +13,21 @@ Este año se celebrará **en Almería**, a lo largo de **los días 7, 8 y 9 de O
 - titulo: Exposición // Museo de Almería - Python España
   imagen: museo.png
   imagen_ancho: natural
+  imagen_fuente: "Fuente imágen // [www.filmingalmeria.es](http://www.filmingalmeria.es)"
   contenido: "Jose Luis Sampedro, en su infinita sabiduría decía '...estamos en este mundo para vivir, para realizarnos, para dar de cada uno de nosotros todo lo que puede dar, porque así tendrá todo lo que pueda recibir...' Pues debe de ser verdad, porque empezamos sin nada, compartiendo lo poco que tenemos, y no hemos parado de recibir. Un ejemplo de esto es que tanto Python España como el Museo de Almería nos abrieron sus puertas. Vamos a exponer nuestro laboratorio de participación ciudadana en la Sal@ del museo. La inauguración tendrá lugar el día 8 de octubre a las 20hs y estará disponible hasta el día 6 de Noviembre.
 
 Durante el mes de exposición haremos talleres in situ, donde poder enseñar a los asistentes a iniciarse en el mundillo Pymientero."
 - titulo: El equipo // Somos personas, no recursos
   imagen: equipo.jpg
   imagen_ancho: content
-  imagen_fuente: "Fuente imágen // [www.filmingalmeria.es](http://www.filmingalmeria.es)"
   contenido: "Todo esto no sería posible sin el **grupo humano** que hay detrás. Empezamos siendo tres individuos, y el número se ha multiplicado por 5,X. Está **compuesto de personas de distintas edades y oficios**, porque como dice Pau Donés **'*...la pureza está en la mezcla, en la mezcla de lo puro, que antes que puro fue mezcla*'**. Hay personas del diseño, la creatividad, ingenieros **¡¡¡Lo peor de cada casa!!!** Cada uno conseguimos aportar nuestro granito de arena, ya que **hemos tirado la careta de los prejuicios a la basura y estamos abiertos a los demás**. Pero **Pymiento no** está abierto **solo** para lo **local**. Contamos con parte del **equipo** trabajando desde **otros lugares**, colaboradores externos. **Ni los conocimientos son una traba para participar, ni la distancia tampoco**. Así que **si quieres unirte** en este viaje, **acabas de ser invitado**."
+
 - titulo: Python como herramienta // ¿Mundo Virtual (SW)? ¿Mundo Físico (HW)?
   imagen: genart.jpg
-  imagen_ancho: full
+  imagen_ancho: content
   imagen_fuente: "[Robert Hruska](https://instagy.com/user/rbrthrsk) // [fb.com/rbrthrsk](https://www.facebook.com/rbrthrsk)"
   contenido: "[Python](https://www.python.org/) es uno los lenguajes de programación mas *sui generis* que existen. **Basa su potencia en el minimalismo y la usabilidad**, [estos son sus principios](https://www.python.org/dev/peps/pep-0020/). Se postula como de una de las **mejores elecciones para aprender a programar** ¿Que podemos hacer nosotros? Entre la comunidad artística cada vez es más frecuente su uso, pero es un terreno por arar todavía. Empezamos a dar nuestros primeros pasos con el software [Proccesing en su versión Pythonista](http://py.processing.org/). Un mundo nuevo se abría ante nuestros ojos, **Arte Generativo**. Con pocas líneas de código podíamos pintar nuestras pantallas con cuadros con los que nunca hubieramos soñado."
+
 - titulo: 
   imagen: rpi.jpg
   imagen_ancho: content
@@ -55,7 +57,7 @@ En HackLab Almería **somos un colectivo de experimentación tecnológica, socia
 <p>{{ cada.contenido | markdownify }}</p>
 </div>
 <img class="{{ cada.imagen_ancho }}" src="{{ cada.imagen }}" />
-{% if cada.imagen_fuente <>"" %} <p> {{ cada.imagen_fuente | markdownify }} </p> {% endif %}
+{% if cada.imagen_fuente <>"" %} <div class="content"><p> {{ cada.imagen_fuente | markdownify }} </p></div> {% endif %}
 {% if cada.subcontenido <>"" %} <div class="content"><p> {{ cada.subcontenido | markdownify }} </p> </div>{% endif %}
 {% endfor %}
 

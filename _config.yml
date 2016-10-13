@@ -41,3 +41,22 @@ collections:
     output: true
   people:
     output: true
+  blog:
+    output: true
+socials:
+  - url: https://twitter.com/PymientoProject
+    img: tw.png
+  - url: https://github.com/PymientoProject
+    img: git.png
+  - url: https://www.facebook.com/pymiento
+    img: fb.png
+menu:
+  - text: About
+    url: /about
+  - text: Works
+    url: /works
+  - text: People
+    url: /people
+  - text: Blog
+    url: /blog
+

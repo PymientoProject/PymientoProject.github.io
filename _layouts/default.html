@@ -1,38 +1,23 @@
 ---
-socials:
-  - url: https://twitter.com/PymientoProject
-    img: tw.png
-  - url: https://github.com/PymientoProject
-    img: git.png
-  - url: https://www.facebook.com/pymiento
-    img: fb.png
-menu:
-  - text: About
-    url: /about
-  - text: Works
-    url: /works
-  - text: People
-    url: /people
-  
 ---
 <!DOCTYPE HTML>
 <html>
   <head>
     <script src="/js/jquery.min.js" async=""></script>
-    <link href="https://fonts.googleapis.com/css?family=Maitree:400,200" type="text/css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Oswald:400,700,300" type="text/css" rel="stylesheet">
-    <link href="/css/styles.css?r=0.5054344211124209" type="text/css" rel="stylesheet">
+    <link href="/css/maitree.css" type="text/css" rel="stylesheet">
+    <link href="/css/oswalk.css" type="text/css" rel="stylesheet">
+    <link href="/css/styles.css" type="text/css" rel="stylesheet">
     <title>Pymiento | The Pymiento Project</title>
   </head>
   <body>
-    <div id="fondo" class="logo">
+    <div class="logo" id="fondo" >
 <script type="text/javascript">
   var num = Math.floor(Math.random() * 2) ;
   var path = 'url("/img/bg' + num + '.jpg")';
   document.getElementById("fondo").style.backgroundImage = path;
 </script>
       <div class="social">
-  {% for cada in layout.socials %}
+  {% for cada in site.socials %}
         <a href="{{ cada.url }}" target="_blank"><img src="/img/{{ cada.img }}"></a>
   {% endfor %}
       </div>
@@ -40,13 +25,13 @@ menu:
       </div>
       <div class="content">
         <div class="menu">
-{% for cada in layout.menu %}
+{% for cada in site.menu %}
           <a href="{{ cada.url }}">{{ cada.text }}</a>
 {% endfor %}
+        </div>
        <h1>{{ page.title }}</h1>
        <h2>{{ page.abstract }}</h2>
        <p>{{ page.intro }}</p>
-        </div>
        </div>
  
  {{ page.hack }}

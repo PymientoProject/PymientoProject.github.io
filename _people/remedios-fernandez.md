@@ -17,4 +17,4 @@ También formo parte de los grupos **‘HackLab en Familia’** y **‘Mujeres y
 
 He participado como jurado en los eventos **First Lego League 2016** y en la [3ª edición del Tecnoencuentro](http://www.tecnoencuentro.com/), y en este momento participo en la organización de [Django Girls Almería](https://djangogirls.org/almeria/).
 
-![Remedios Fernández - Experimentando con Tecnologías creativas, innovadoras y/o educativas](remedios-fernandez.png)
+![Remedios Fernández - Experimentando con Tecnologías creativas, innovadoras y/o educativas](remedios-fernandez.png){: .content }
