@@ -1,6 +1,10 @@
-# Adolfo Rosillo Herrera
+---
+layout: default
+title: Adolfo Rosillo Herrera
+abstract: Agente provocador
+hack: "<div class='content'>"
+---
 
-## Agente provocador
 
 Licenciado en Bellas Artes por la Universidad de Granada.  
 Profesor de Historia del Arte en la Escuela de Arte de Almería.  

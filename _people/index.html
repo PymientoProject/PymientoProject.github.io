@@ -113,7 +113,7 @@ gente:
 <div style="position: relative; width: 1480px; height: 1787.47px;" id="container">
 {% for cada in page.gente %}
 <a href="/people/{{ cada.url }}"></a><div style="position:absolute; left: {{ cada.x }}px; top: {{ cada.y }}px;"
- class="brick"><a href="/people/{{ cada.url }}"><span>{{ cada.nombre }}</span><img src="/people/{{ cada.imagen }}"></a>{{ cada.alias }}</div>
+ class="brick"><a href="/people/{{ cada.url }}.html"><span>{{ cada.nombre }}</span><img src="/people/{{ cada.imagen }}"></a>{{ cada.alias }}</div>
 {% endfor %}
 
 </div>

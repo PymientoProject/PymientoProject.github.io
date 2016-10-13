@@ -1,6 +1,9 @@
-# Ana Isabel Mora Maldonado
-
-## Inquieta por definición
+---
+layout: default
+title: Ana Isabel Mora Maldonado
+abstract: Inquieta por definición
+hack: "<div class='content'>"
+---
 
 Soy licenciada en Ciencias Ambientales por la Universidad de Almería, auditora y perito judicial, y tengo un Master en Prevención de Riesgos Laborales. Durante mas de 14 años me dediqué a la consultoría en materia de Seguridad y Salud Laboral, y durante este tiempo también cursé estudios de Ingeniería Industrial y Fotografía Artística.
 
