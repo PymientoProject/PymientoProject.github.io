@@ -3,134 +3,98 @@ layout: default
 title: People
 abstract: Esta es toda la gente que ha pasado por Pymiento, y de algún modo, ha dejado su granito de arena.
 intro: Estamos inmersos en un proceso no guiado de aprendizaje basado en proyectos, orientado a la consecución de resultados creativos de carácter interdisciplinar, donde importa más el desarrollo y crecimiento de las personas que los objetos, imágenes o programas que resulten.
-# ya lo se: poner las coordenadas de cada elemento como variables es muy lamentable, pero no he encontrado forma
-# de que el liquid scripting permita hacer contadores...
 gente:
   - nombre: "Adolfo"
     alias: "Agente provocador"
     url: "adolfo-rosillo-herrera"
     imagen: "adolfo-rosillo.png"
     bio: si
-    x: 0
-    y: 0
   - nombre: "Cristo"
     alias: "Flamer ecléctico"
     url: "cristo-contreras-rubio"
     imagen: "cristo.jpg"
     bio: si
-    x: 370
-    y: 0
   - nombre: "Gonzalo"
     alias: "Multipotencialista maker"
     url: "gonzalo-moyano"
     imagen: "gonzalo.jpg"
     bio: si
-    x: 740
-    y: 0
   - nombre: "Fran"
     alias: "Amante de las tecnologías libres"
     url: "francisco-acien"
     imagen: "fran.jpg"
     bio: si
-    x: 1110
-    y: 0
   - nombre: "Delia"
     alias: "Maker interiorista"
     url: "delia-galvez-moreno"
     imagen: "delia.jpg"
     bio: no
-    x: 0
-    y: 446
   - nombre: "Almudena"
     alias: "Creatividad por bandera"
     url: "almudena-fernandez"
     imagen: "almudena.jpg"
     bio: no
-    x: 370
-    y: 446
   - nombre: "Aitor"
     alias: "El ingeniero filósofo"
     url: "aitor-alvarez"
     imagen: "aitor.jpg"
     bio: no
-    x: 740
-    y: 446
   - nombre: "Olga"
     alias: "Design thinking y organizacion"
     url: "olga-fernandez"
     imagen: "olga.jpg"
     bio: no
-    x: 1110
-    y: 446
   - nombre: "Guille"
     alias: "El físico periodista"
     url: "guille-fuertes"
     imagen: "guille.jpg"
     bio: no
-    x: 0
-    y: 893
   - nombre: "Remedios"
     alias: "Robótica infantil"
     url: "remedios-fernandez"
     imagen: "reme.jpg"
     bio: si
-    x: 370
-    y: 893
   - nombre: "Hugo"
     alias: "Amante de la casquería mecánica"
     url: "hugo-rosillo"
     imagen: "hugo.jpg"
     bio: no
-    x: 740
-    y: 893
   - nombre: "Cris"
     alias: "Psicopedagogía y manualidades"
     url: "cris-gongora"
     imagen: "cris.jpg"
     bio: si
-    x: 1110 
-    y: 893
   - nombre: "Bill"
     alias: "Un punky del estenopo"
     url: "bill-muslos"
     imagen: "bill.jpg"
     bio: no
-    x: 0
-    y: 1340
   - nombre: "Ana"
     alias: "Inquieta por definicion"
     url: "ana-mora"
     imagen: "ana.jpg"
     bio: si
-    x: 370
-    y: 1340
   - nombre: "Favio"
     alias: "Diseño y Comunicación Visual"
     url: "favio-gutierrez"
     imagen: "favio.jpg"
     bio: si
-    x: 740
-    y: 1340
   - nombre: "Pedro"
     alias: "Hacking mode"
     url: "pedro-silva"
     imagen: "pedro.jpg"
     bio: si
-    x: 1110
-    y: 1340
   - nombre: "Maribel"
     alias: "Mecenas en stand-by"
     url: "maribel-ubeda"
     imagen: "maribel.jpg"
     bio: si
-    x: 0
-    y: 1787
 ---
 
-<div style="position: relative; width: 1480px; height: 1787.47px;" id="container">
+<div class="grid" id="container" data-masonry='{ "itemSelector": ".brick", "columnWidth": 370 }'>
 
 {% for cada in page.gente %}
-{% if cada.bio == 'si' %}<a href="/people/{{ cada.url }}"></a>{% endif %}<div style="position:absolute; left: {{ cada.x }}px; top: {{ cada.y }}px;" class="brick">{% if cada.bio == 'si' %}<a href="/people/{{ cada.url }}.html">{% endif %}<span>{{ cada.nombre }}</span><img src="/people/{{ cada.imagen }}">{% if cada.bio =='si' %}</a>{% endif %}{{ cada.alias }}</div>{% endfor %}</div>
+{% if cada.bio == 'si' %}<a href="/people/{{ cada.url }}"></a>{% endif %}<div class="brick">{% if cada.bio == 'si' %}<a href="/people/{{ cada.url }}.html">{% endif %}<span>{{ cada.nombre }}</span><img src="/people/{{ cada.imagen }}">{% if cada.bio =='si' %}</a>{% endif %}{{ cada.alias }}</div>{% endfor %}</div>
 
 <div style="float:left;clear:both"></div>
 

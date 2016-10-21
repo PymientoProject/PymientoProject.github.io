@@ -8,85 +8,60 @@ proyectos:
     url: "Jacquard-Mondrian"
     imagen: "cpc.jpg"
     bio: si
-    x: 0
-    y: 0
   - nombre: "movieBox"
     alias: "Uniendo tecnología y animación"
     url: "movieBox"
     imagen: "moviebox.jpg"
     bio: si
-    x: 370
-    y: 0
   - nombre: "Schrödinger's Python"
     alias: "¿Hay código Python o no?"
     url: "schrodingers-python"
     imagen: "schrodingers-python.jpg"
     bio: si
-    x: 740
-    y: 0
   - nombre: "NFC Party rocking"
     alias: "Música y NFC's"
     url: "MusicaFiguras"
     imagen: "PreviewNFC.jpg"
     bio: si
-    x: 1110
-    y: 0
   - nombre: "3D-Halsman"
     alias: "Instantáneas en 3D instantáneo"
     url: "3D-Halsman"
     imagen: "3dhalsman.gif"
     bio: si
-    x: 0
-    y: 446
   - nombre: "AGAP"
     alias: "Datos que crean obras y vivecersa"
     url: "AGAP"
     imagen: "agap.jpg"
     bio: si
-    x: 370
-    y: 446
   - nombre: "dancingChair"
     alias: "Muy pronto en Ikea..."
     url: "dancing-chair"
     imagen: "dancingchair.jpg"
     bio: no
-    x: 740
-    y: 446
   - nombre: "genKoan"
     alias: "El sensei del futuro"
     url: "genkoan"
     imagen: "genkoan.png"
     bio: no
-    x: 1110
-    y: 446
   - nombre: "genHive"
     alias: "La colmena generativa"
     url: "genhive"
     imagen: "genhive.png"
     bio: no
-    x: 0
-    y: 893
   - nombre: "genAgario"
     alias: "Ecosistema generativo"
     url: "genagrario"
     imagen: "genagario.jpg"
     bio: no
-    x: 370
-    y: 893
   - nombre: "photonTurntable"
     alias: "Puente de luz al sonido"
     url: "photon-turntable"
     imagen: "photon.jpg"
     bio: no
-    x: 740
-    y: 893
 ---
 
-<div style="position: relative; width: 1380px; height: 1340px;" id="container">
-{% for cada in page.proyectos %}
-{% if cada.bio == 'si' %}<a href="/works/{{ cada.url }}"></a>{% endif %}<div style="position:absolute; left: {{ cada.x }}px; top: {{ cada.y }}px;"
- class="brick">{% if cada.bio == 'si' %}<a href="/works/{{ cada.url }}.html">{% endif %}<span>{{ cada.nombre }}</span><img src="/works/{{ cada.imagen }}">{% if cada.bio =='si' %}</a>{% endif %}{{ cada.alias }}</div>
-{% endfor %}
+<div class="grid" id="container" data-masonry='{ "itemSelector": ".brick", "columnWidth": 370 }'>
+{% for cada in page.proyectos %}{% if cada.bio == 'si' %}<a href="/works/{{ cada.url }}"></a>{% endif %}<div class="brick">{% if cada.bio == 'si' %}<a href="/works/{{ cada.url }}.html">{% endif %}<span>{{ cada.nombre }}</span><img src="/works/{{ cada.imagen }}">{% if cada.bio =='si' %}</a>{% endif %}{{ cada.alias }}</div>{% endfor %}
 
 </div>
 <div style="float:left;clear:both;"></div>
