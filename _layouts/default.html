@@ -3,8 +3,8 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <script src="/js/jquery.min.js" async=""></script>
-    <script src="/js/masonry.pkgd.min.js" async=""></script>
+    <script src="/js/jquery.min.js" ></script>
+    <script src="https://unpkg.com/masonry-layout@4.1/dist/masonry.pkgd.min.js"></script>
     <link href="/css/maitree.css" type="text/css" rel="stylesheet">
     <link href="/css/oswalk.css" type="text/css" rel="stylesheet">
     <link href="/css/styles.css" type="text/css" rel="stylesheet">
@@ -17,6 +17,21 @@
   var path = 'url("/img/bg' + num + '.jpg")';
   document.getElementById("fondo").style.backgroundImage = path;
 </script>
+
+
+<script type="text/javascript">
+var init = function() {
+    $('.grid').masonry({
+      columnWidth: 370,
+      itemSelector: '.brick'
+    });
+};
+//$(window).load(init);
+window.onload = init;
+////$(document).ready(init);
+//$('#container').load(init);
+</script>
+
       <div class="social">
   {% for cada in site.socials %}
         <a href="{{ cada.url }}" target="_blank"><img src="/img/{{ cada.img }}"></a>

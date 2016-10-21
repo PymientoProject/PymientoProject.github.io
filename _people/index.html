@@ -90,11 +90,10 @@ gente:
     imagen: "maribel.jpg"
     bio: si
 ---
-
-<div class="grid" id="container" data-masonry='{ "itemSelector": ".brick", "columnWidth": 370 }'>
-
+<div class="items">
+<div class="grid" id="container">
 {% for cada in page.gente %}
 {% if cada.bio == 'si' %}<a href="/people/{{ cada.url }}"></a>{% endif %}<div class="brick">{% if cada.bio == 'si' %}<a href="/people/{{ cada.url }}.html">{% endif %}<span>{{ cada.nombre }}</span><img src="/people/{{ cada.imagen }}">{% if cada.bio =='si' %}</a>{% endif %}{{ cada.alias }}</div>{% endfor %}</div>
-
+</div>
 <div style="float:left;clear:both"></div>
 

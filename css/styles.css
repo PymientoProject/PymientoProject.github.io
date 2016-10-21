@@ -156,6 +156,19 @@ h4 {
 	clear: both; 
 }
 
+.items {
+        display: inline-block;
+ 	width: 100%;
+        margin-left: 8%;
+}
+/*
+.grid {
+	clear: both;
+        display: inline-block;
+ 	width: 100%;
+}
+*/
+
 .brick {
 	width:330px;
 	margin: 20px;
