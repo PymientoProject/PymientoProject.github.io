@@ -170,6 +170,7 @@ h4 {
 */
 
 .brick {
+	visibility: hidden;
 	width:330px;
 	margin: 20px;
 	line-height: 30px;
