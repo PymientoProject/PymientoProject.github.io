@@ -59,8 +59,8 @@ menu:
     url: /works
   - text: People
     url: /people
-  - text: Blog
-    url: /blog
-  - text: Prensa
-    url: /prensa
+#  - text: Blog
+#    url: /blog
+#  - text: Prensa
+#    url: /prensa
 
