@@ -152,22 +152,21 @@ h4 {
 }
 
 #container {
-	margin: 40px auto 0 auto; 
+	margin: 40px auto 0 9%; 
 	clear: both; 
+    	width: 91%;
 }
 
 .items {
         display: inline-block;
  	width: 100%;
-        margin-left: 8%;
+/*        margin-left: 8%;   */
 }
-/*
 .grid {
-	clear: both;
+	clear: both;   
         display: inline-block;
  	width: 100%;
 }
-*/
 
 .brick {
 	visibility: hidden;
