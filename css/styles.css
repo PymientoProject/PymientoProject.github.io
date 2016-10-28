@@ -152,9 +152,9 @@ h4 {
 }
 
 #container {
-	margin: 40px auto 0 5%; 
+	margin: 40px auto 0 auto; 
 	clear: both; 
-    	width: 95%;
+    	width: 100%;
 }
 
 .items {
